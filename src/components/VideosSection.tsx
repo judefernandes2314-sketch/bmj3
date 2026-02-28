@@ -50,7 +50,7 @@ const VideosSection = () => (
                   <div className="h-16 w-16 rounded-full bg-primary/90 flex items-center justify-center mx-auto mb-3">
                     <Play className="h-7 w-7 text-primary-foreground ml-1" />
                   </div>
-                  <p className="text-muted-foreground text-sm">Replace with your video embed URL</p>
+                  <p className="text-muted-foreground text-sm">https://youtu.be/Q5sd300ct3E</p>
                 </div>
               </div>
             </div>
